@@ -9,8 +9,8 @@
 class ConfigFileEntry {
 
 public:
-    std::string key = "";
-    std::string value = "";
+    std::string key = "1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU";
+    std::string value = "400000000000000000:7fffffffffffffffff";
 
     ConfigFileEntry() {}
 
